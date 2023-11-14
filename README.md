@@ -9,6 +9,8 @@ This Book Store System is a simple, console-based Python application for managin
 - **Mark Books as Read**: Update the status of books as read.
 - **Delete Books**: Remove books from the collection.
 - **File Storage**: Save and load the book collection to and from a file.
+### Live Demo
+https://replit.com/@sreyeeshgarimel/BookStore-CLI
 
 ## Getting Started
 
